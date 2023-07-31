@@ -1,0 +1,134 @@
+﻿ID;SEV;AG;Valor Financ.;CONTA;CROT;CESTA;CARTÃO;INVESTIMENTO;CRÉD. SALÁRIO;DÉBITO;DIGITAIS;PREVIDÊNCIA;CAPTALIZAÇÃO;CONSÓRCIO;SEG PATRIMONIAL;SEGURO VIDA;HOME BROKER
+1;5038 - PLANO PILOTO;0004 - BERNARDO SAYAO, DF;300000;s;s;n;s;s;n;n;n;n;n;n;n;n;n
+2;5038 - PLANO PILOTO;0004 - BERNARDO SAYAO, DF;518871.88;s;n;n;s;n;n;n;n;n;n;n;n;n;n
+3;5038 - PLANO PILOTO;0004 - BERNARDO SAYAO, DF;785000;s;s;n;s;s;n;n;n;n;n;n;n;n;n
+4;5038 - PLANO PILOTO;0004 - BERNARDO SAYAO, DF;561852.4;s;s;s;s;s;n;s;s;n;n;n;n;n;n
+5;5038 - PLANO PILOTO;0006 - MEXICO, DF;75050;s;s;s;s;s;n;s;s;s;n;n;n;s;s
+6;5038 - PLANO PILOTO;0006 - MEXICO, DF;272000;s;s;n;s;s;n;s;s;n;n;n;n;n;n
+7;5038 - PLANO PILOTO;0006 - MEXICO, DF;421801.33;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+8;5038 - PLANO PILOTO;0006 - MEXICO, DF;420827.82;s;s;s;s;s;s;s;s;n;n;n;s;n;n
+9;5038 - PLANO PILOTO;0006 - MEXICO, DF;114000;s;s;s;s;s;n;n;n;n;n;n;s;n;n
+10;5079 - TAGUATINGA;0008 - TAGUATINGA, DF;62612.4;s;s;n;s;s;n;s;s;n;n;n;s;s;n
+11;5079 - TAGUATINGA;0008 - TAGUATINGA, DF;260000;s;s;n;s;s;s;s;s;n;n;n;s;n;n
+12;5079 - TAGUATINGA;0008 - TAGUATINGA, DF;260000;s;s;s;s;s;n;s;s;n;n;n;s;n;n
+13;5079 - TAGUATINGA;0008 - TAGUATINGA, DF;66000;s;s;n;n;s;n;n;s;n;n;n;s;n;n
+14;5079 - TAGUATINGA;0008 - TAGUATINGA, DF;255700;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+15;5079 - TAGUATINGA;0008 - TAGUATINGA, DF;560000;n;n;n;s;s;n;n;n;n;n;n;s;n;n
+16;5079 - TAGUATINGA;0008 - TAGUATINGA, DF;259000;s;s;s;s;s;n;s;s;n;n;n;s;s;n
+17;5725 - GUARÁ;0010 - 105 SUDOESTE, DF;102289.35;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+18;5295 - PARACATU;0138 - PARACATU, MG;192000;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+19;5295 - PARACATU;0138 - PARACATU, MG;230129.42;s;s;n;s;s;n;n;n;n;n;n;s;n;n
+20;5295 - PARACATU;0138 - PARACATU, MG;711902.42;s;n;s;n;s;n;s;s;s;n;n;n;s;n
+21;5295 - PARACATU;0138 - PARACATU, MG;255000;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+22;5295 - PARACATU;0609 - PIRAPORA, MG;273997.76;s;n;n;n;s;n;n;n;n;n;n;s;n;n
+23;5295 - PARACATU;0609 - PIRAPORA, MG;204400;s;n;n;n;s;n;s;s;n;n;n;s;n;n
+24;5725 - GUARÁ;0643 - GUARA, DF;240000;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+25;5725 - GUARÁ;0643 - GUARA, DF;572000;s;n;n;n;s;n;n;n;n;n;n;s;n;n
+26;5725 - GUARÁ;0643 - GUARA, DF;241446.23;s;n;n;n;s;n;s;s;n;n;n;s;n;n
+27;5725 - GUARÁ;0643 - GUARA, DF;560000;s;n;n;n;n;n;n;n;n;n;n;s;n;n
+28;5725 - GUARÁ;0643 - GUARA, DF;280000;s;s;n;s;n;n;s;s;n;n;n;s;n;n
+29;5725 - GUARÁ;0643 - GUARA, DF;660000;s;n;n;n;s;n;n;n;n;n;n;s;n;n
+30;5725 - GUARÁ;0643 - GUARA, DF;572000;s;n;n;n;n;n;n;n;n;n;n;s;n;n
+31;5725 - GUARÁ;0643 - GUARA, DF;503209.75;s;n;n;n;n;n;n;n;n;n;n;s;n;n
+32;5038 - PLANO PILOTO;0647 - CAPITAL, DF;515000;s;s;n;s;s;n;s;s;n;n;n;s;n;n
+33;5038 - PLANO PILOTO;0647 - CAPITAL, DF;68000;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+34;5038 - PLANO PILOTO;0647 - CAPITAL, DF;264000;s;s;n;s;s;n;s;s;s;n;n;n;s;n
+35;5038 - PLANO PILOTO;0647 - CAPITAL, DF;228000;s;s;n;s;s;n;n;n;n;n;n;s;n;n
+36;5731 - GAMA;0655 - GAMA, DF;300000;s;s;n;s;s;n;s;s;n;n;n;s;s;n
+37;5731 - GAMA;0655 - GAMA, DF;200000;s;n;n;s;s;n;n;s;n;n;n;s;s;n
+38;5731 - GAMA;0655 - GAMA, DF;200000;n;n;n;s;n;n;n;n;n;n;n;s;n;n
+39;5731 - GAMA;0655 - GAMA, DF;296472.74;s;n;s;n;s;n;n;s;n;n;n;s;n;n
+40;5731 - GAMA;0655 - GAMA, DF;264000;s;s;n;n;n;n;n;n;n;n;n;s;s;n
+41;5731 - GAMA;0655 - GAMA, DF;480000;s;n;n;n;s;n;n;n;n;n;n;s;s;n
+42;5731 - GAMA;0655 - GAMA, DF;240000;n;n;n;n;s;n;n;s;n;n;n;n;n;n
+43;5731 - GAMA;0655 - GAMA, DF;93932.28;s;s;n;s;s;n;n;s;n;n;n;s;s;n
+44;5725 - GUARÁ;0674 - LAGO SUL, DF;700000;s;s;s;s;s;s;s;s;n;n;n;n;s;n
+45;5725 - GUARÁ;0674 - LAGO SUL, DF;350000;n;n;n;n;s;n;n;n;n;n;n;n;n;n
+46;5079 - TAGUATINGA;0688 - NUCLEO BANDEIRANTE, DF;196897.65;s;n;n;n;s;n;n;s;n;n;n;n;n;n
+47;5079 - TAGUATINGA;0688 - NUCLEO BANDEIRANTE, DF;77021.6;n;n;n;n;s;n;n;n;n;n;n;n;n;n
+48;5079 - TAGUATINGA;0688 - NUCLEO BANDEIRANTE, DF;161079.58;s;n;s;n;s;n;n;s;n;n;n;s;n;n
+49;5079 - TAGUATINGA;0688 - NUCLEO BANDEIRANTE, DF;196574.8;n;n;n;n;s;n;n;n;n;n;n;s;n;n
+50;5731 - GAMA;0804 - LUZIANIA, GO;272000;s;s;s;s;s;s;n;s;n;n;n;s;n;n
+51;5731 - GAMA;0804 - LUZIANIA, GO;50000;s;s;s;s;s;n;n;n;n;n;n;n;s;n
+52;5731 - GAMA;0804 - LUZIANIA, GO;204000;s;n;n;n;s;s;s;s;n;s;n;n;n;n
+53;5038 - PLANO PILOTO;0816 - 210 SUL, DF;550000;s;s;s;s;s;s;s;s;n;n;n;n;n;n
+54;5038 - PLANO PILOTO;0816 - 210 SUL, DF;260000;s;s;n;n;s;n;n;s;n;n;n;s;n;n
+55;5038 - PLANO PILOTO;0816 - 210 SUL, DF;394058.76;s;s;s;s;s;n;n;s;n;n;n;n;s;n
+56;5295 - PARACATU;0942 - UNAI, MG;120000;s;s;n;s;s;s;s;s;n;s;n;s;n;n
+57;5295 - PARACATU;0942 - UNAI, MG;200000;s;s;s;s;s;s;s;s;n;n;n;s;s;s
+58;5295 - PARACATU;0942 - UNAI, MG;440000;s;n;n;n;s;n;n;s;n;n;n;s;n;n
+59;5079 - TAGUATINGA;1040 - BRAZLANDIA, DF;1320000;s;s;n;s;n;n;n;n;n;n;n;n;n;n
+60;5038 - PLANO PILOTO;1041 - COMERCIAL SUL, DF;224000;s;s;n;n;s;n;n;n;n;n;n;n;s;n
+61;5038 - PLANO PILOTO;1041 - COMERCIAL SUL, DF;158500;s;n;n;n;s;n;s;s;n;n;n;s;n;n
+62;5038 - PLANO PILOTO;1041 - COMERCIAL SUL, DF;592284.4;n;n;n;n;n;n;n;n;n;n;n;n;n;n
+63;5038 - PLANO PILOTO;1041 - COMERCIAL SUL, DF;233600.1;s;s;s;s;s;n;n;s;n;n;n;n;n;n
+64;5038 - PLANO PILOTO;1041 - COMERCIAL SUL, DF;58856.04;s;n;s;s;s;n;n;s;n;n;n;n;s;n
+65;5038 - PLANO PILOTO;1041 - COMERCIAL SUL, DF;61895.6;s;s;s;s;s;n;s;s;n;s;n;s;n;n
+66;5725 - GUARÁ;1057 - 515 SUL, DF;201600;n;n;n;n;s;n;n;n;n;n;n;n;n;n
+67;5725 - GUARÁ;1502 - SUDOESTE, DF;450000;n;n;n;n;s;n;n;n;n;n;n;s;n;n
+68;5725 - GUARÁ;1502 - SUDOESTE, DF;228080;n;n;n;s;s;n;s;s;n;n;n;n;n;n
+69;5079 - TAGUATINGA;1556 - CNB 12, DF;209026.49;n;n;n;n;s;n;s;s;n;n;n;n;n;n
+70;5079 - TAGUATINGA;1556 - CNB 12, DF;200000;s;s;s;s;s;n;n;s;n;n;n;s;n;n
+71;5079 - TAGUATINGA;1556 - CNB 12, DF;224000;s;s;s;s;s;n;n;s;n;n;n;n;n;n
+72;5079 - TAGUATINGA;1556 - CNB 12, DF;564000;s;s;s;s;s;n;s;s;n;n;n;s;n;n
+73;5079 - TAGUATINGA;1556 - CNB 12, DF;217000;s;s;n;n;n;n;s;n;n;s;n;n;s;n
+74;5079 - TAGUATINGA;1556 - CNB 12, DF;211200;s;s;n;n;s;n;s;s;n;n;n;n;s;n
+75;5038 - PLANO PILOTO;1803 - ASA SUL, DF;258240;s;s;n;n;s;n;n;s;n;n;n;n;n;n
+76;5295 - PARACATU;1818 - JOAO PINHEIRO, MG;201359.82;s;s;s;s;s;n;s;s;n;n;n;s;s;n
+77;6600 - CEILÂNDIA;1985 - AV RECANTO, DF;219176.94;s;n;n;n;s;n;n;s;s;n;n;n;s;n
+78;6600 - CEILÂNDIA;1985 - AV RECANTO, DF;180000;s;n;n;n;s;n;s;s;n;n;n;n;s;n
+79;5079 - TAGUATINGA;1990 - FELICITTA SHOPPING, DF;332000;s;s;s;s;s;n;s;s;n;n;n;s;n;s
+80;5079 - TAGUATINGA;1990 - FELICITTA SHOPPING, DF;676000;s;n;s;s;s;n;n;s;n;n;n;s;n;n
+81;5079 - TAGUATINGA;1990 - FELICITTA SHOPPING, DF;150000;s;s;s;s;n;n;n;s;n;n;n;s;n;n
+82;5079 - TAGUATINGA;1990 - FELICITTA SHOPPING, DF;231280;s;s;s;s;s;n;s;s;n;n;n;n;n;n
+83;6600 - CEILÂNDIA;2272 - CEILANDIA, DF;150000;s;s;n;s;s;n;n;n;n;n;n;n;n;n
+84;5079 - TAGUATINGA;2399 - TAGUASUL, DF;444000;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+85;5725 - GUARÁ;2407 - SIA, DF;392000;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+86;5725 - GUARÁ;2407 - SIA, DF;494000;s;s;n;s;s;n;s;s;n;n;n;s;n;n
+87;5731 - GAMA;2437 - VALPARAISO, GO;680000;s;s;s;s;s;n;s;s;n;n;n;n;n;n
+88;5731 - GAMA;2437 - VALPARAISO, GO;133125.41;s;s;s;s;s;n;n;s;n;n;n;s;n;n
+89;5731 - GAMA;2437 - VALPARAISO, GO;901954;s;s;n;s;s;n;n;s;n;n;n;n;n;n
+90;5038 - PLANO PILOTO;2893 - LUCIO COSTA, DF;322077.84;s;n;n;n;n;n;n;n;n;n;n;n;n;n
+91;5731 - GAMA;3001 - CIDADE DE SANTA MARIA, DF;226575;s;s;n;s;s;n;n;s;n;n;n;n;s;n
+92;5731 - GAMA;3001 - CIDADE DE SANTA MARIA, DF;239220.81;s;s;n;s;s;n;n;s;n;n;n;n;s;n
+93;5725 - GUARÁ;3002 - GUARA II, DF;370713.1;s;s;s;s;s;s;s;s;n;n;n;s;s;s
+94;5731 - GAMA;3189 - NOVO GAMA, GO;154400;s;n;n;n;s;n;n;n;n;n;n;n;n;n
+95;5731 - GAMA;3189 - NOVO GAMA, GO;102000;s;n;n;n;s;n;s;s;n;n;n;n;n;n
+96;5731 - GAMA;3189 - NOVO GAMA, GO;70000;s;s;n;s;s;n;s;s;n;n;n;n;s;n
+97;5731 - GAMA;3189 - NOVO GAMA, GO;204800;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+98;5725 - GUARÁ;3247 - SPO, DF;236996.24;s;n;n;s;s;n;s;s;s;n;n;s;n;n
+99;5295 - PARACATU;3369 - CRISTALINA, GO;276000;s;s;s;n;s;s;s;s;n;s;n;s;n;n
+100;5079 - TAGUATINGA;3494 - AGUAS CLARAS, DF;156500;s;s;n;n;s;n;n;s;n;n;n;n;n;n
+101;5079 - TAGUATINGA;3494 - AGUAS CLARAS, DF;160000;s;s;n;s;s;n;s;s;n;n;n;s;n;n
+102;5079 - TAGUATINGA;3494 - AGUAS CLARAS, DF;240000;s;s;s;s;s;s;s;s;n;n;n;s;s;s
+103;5079 - TAGUATINGA;3494 - AGUAS CLARAS, DF;307000;s;s;s;s;s;n;s;s;n;n;n;n;n;n
+104;5079 - TAGUATINGA;3494 - AGUAS CLARAS, DF;437574.05;s;s;s;s;s;s;s;s;n;n;n;n;s;n
+105;5725 - GUARÁ;3625 - 102 SUDOESTE, DF;250000;s;s;s;s;s;s;s;s;n;n;n;n;n;n
+106;5295 - PARACATU;3697 - VAZANTE, MG;117150;s;s;s;s;s;n;n;s;n;n;n;s;n;n
+107;5295 - PARACATU;3697 - VAZANTE, MG;400000;s;s;s;s;s;n;n;s;n;n;n;s;n;n
+108;5079 - TAGUATINGA;3872 - AV HELIO PRATES, DF;224000;s;s;n;s;s;n;s;s;n;n;n;n;n;n
+109;5079 - TAGUATINGA;3872 - AV HELIO PRATES, DF;192000;s;s;n;s;s;n;n;s;n;n;n;s;n;n
+110;5079 - TAGUATINGA;3872 - AV HELIO PRATES, DF;108000;s;s;s;n;s;s;s;s;n;n;n;n;n;n
+111;6600 - CEILÂNDIA;4166 - CEILANDIA NORTE, DF;285000;n;n;n;n;s;n;n;n;n;n;n;n;n;n
+112;6600 - CEILÂNDIA;4167 - SAMAMBAIA, DF;264000;s;s;s;s;s;n;s;s;n;n;n;s;n;n
+113;6600 - CEILÂNDIA;4167 - SAMAMBAIA, DF;730000;s;s;n;s;n;n;n;s;n;n;n;n;n;n
+114;6600 - CEILÂNDIA;4167 - SAMAMBAIA, DF;115000;s;n;s;n;s;n;n;n;n;n;n;s;n;n
+115;6600 - CEILÂNDIA;4167 - SAMAMBAIA, DF;200000;s;s;s;n;s;s;s;s;n;n;n;s;n;n
+116;6600 - CEILÂNDIA;4167 - SAMAMBAIA, DF;1350900;s;s;n;s;n;n;n;n;n;n;n;n;n;n
+117;6600 - CEILÂNDIA;4167 - SAMAMBAIA, DF;70000;s;s;s;s;s;n;n;s;n;n;n;n;s;n
+118;5731 - GAMA;4222 - CIDADE OCIDENTAL, GO;50000;s;s;s;s;s;n;n;s;n;n;n;n;s;n
+119;6600 - CEILÂNDIA;4223 - SANTO ANTONIO DO DESCOBERTO, GO;192000;s;s;n;s;s;n;s;s;n;n;n;n;n;n
+120;6600 - CEILÂNDIA;4331 - RECANTO DAS EMAS, DF;150000;s;s;s;s;s;n;s;s;n;n;n;n;n;n
+121;5731 - GAMA;4461 - GAMA LESTE, DF;177600;s;n;n;s;s;n;n;n;n;n;n;s;n;n
+122;5731 - GAMA;4461 - GAMA LESTE, DF;250000;s;s;s;s;s;s;s;s;n;n;n;s;n;s
+123;5731 - GAMA;4461 - GAMA LESTE, DF;175000;s;s;n;n;s;n;s;s;n;n;n;s;n;n
+124;5038 - PLANO PILOTO;4482 - 310 SUL, DF;252000;s;s;s;s;s;s;s;s;n;s;n;s;n;n
+125;6600 - CEILÂNDIA;4483 - SAMAMBAIA SUL, DF;256000;s;n;n;n;s;n;n;n;n;n;n;n;s;n
+126;6600 - CEILÂNDIA;4483 - SAMAMBAIA SUL, DF;257600;s;n;n;n;s;n;n;s;n;n;n;n;n;n
+127;6600 - CEILÂNDIA;4483 - SAMAMBAIA SUL, DF;200000;s;n;n;n;s;n;s;s;n;n;n;s;n;n
+128;5731 - GAMA;4501 - VALPARAISO CENTRO, GO;145800;s;n;n;s;n;n;n;n;n;n;n;n;n;n
+129;5731 - GAMA;4501 - VALPARAISO CENTRO, GO;185000;s;s;n;s;s;n;s;s;n;n;n;n;n;n
+130;5038 - PLANO PILOTO;4760 - PARQUE CIDADE, DF;63558.2;s;s;s;s;s;n;s;s;n;s;n;n;n;n
+131;5038 - PLANO PILOTO;4760 - PARQUE CIDADE, DF;320000;s;s;n;s;s;n;s;s;n;s;s;s;s;n
+132;5038 - PLANO PILOTO;4760 - PARQUE CIDADE, DF;156838.17;n;n;n;n;n;n;n;n;n;n;n;n;n;n
+133;5295 - PARACATU;4979 - BURITIS DE MINAS, MG;137600;n;n;n;n;s;n;n;n;n;n;n;n;n;n
